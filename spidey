@@ -1,0 +1,64 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Be My Spider-Valentine</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive;
+            margin: 0;
+            padding: 0;
+            background-color: #8b0000; /* dark red */
+            color: #333;
+        }
+        header {
+            background-color: #003366; /* Red */
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            margin-top: 0;
+            font-family: 'Impact', sans-serif;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #003366; /* Dark blue */
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Will You Be My Spidey-Valentine?</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <p>Dear wifey,</p>
+            <p>As Valentine's Day swings closer, I wanted to take a moment to tell you how much you mean to me. Your presence brings so much joy and excitement into my life, just like the thrill of swinging through the city as your friendly neighborhood Spiderman.</p>
+            <p>Would you be my Spidey-Valentine?</p>
+            <p>Sincerely,<br> to mwro sou <3 </p>
+        </div>
+    </div>
+    <footer>
+        Made with ❤️ by Aspasia
+    </footer>
+</body>
+</html>
